@@ -13,6 +13,7 @@ public class TestaBanco {
 		
 		conta.titular = cliente;
 		System.out.println(conta.titular.nome);
+		System.out.println(conta.titular);
 	}
 	
 }

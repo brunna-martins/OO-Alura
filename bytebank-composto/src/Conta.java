@@ -1,7 +1,7 @@
 public class Conta {
 	// toda conta tem 4 atributos
 	double saldo;
-	int agencia = 42;
+	int agencia;
 	int numero;
 	Cliente titular;
 	// uma classe conta cria objetos ou instâncias do tipo Conta
